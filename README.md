@@ -5,7 +5,7 @@ This repository contains my full stack web development practice using the MERN s
 I am learning how to build web applications with frontend and backend integration.
 
 ---
-
+ 
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
