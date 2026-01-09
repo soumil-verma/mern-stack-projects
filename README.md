@@ -6,12 +6,21 @@ I am learning how to build web applications with frontend and backend integratio
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-- MongoDB  
-- Express.js  
-- React.js  
-- Node.js  
+### 🌐 Frontend
+- **React.js**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### 🖥 Backend
+- **Node.js**
+- **Express.js**
+
+### 🗄 Database
+- **MongoDB**
+- Mongoose ODM
 
 ---
 
